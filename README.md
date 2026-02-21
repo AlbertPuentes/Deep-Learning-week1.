@@ -1,9 +1,9 @@
 # Deep-Learning-week1.
 Ejercicio practico: Entiende una neurona en 15 minutos (Red 'vainilla')
 #Pregutas
-El bias actúa como un "umbral de dificultad".
-Si el bias tiene un valor negativo muy bajo, para la neurona es mas dificil activarse.
-Si el bias es alto cerca al 0, para la neurona es mas facil activarse.
+El bias actúa como un "umbral de dificultad". RTA: Si el valor de b define un umbral para la neurona donde el valor mas cercano a cero la neurona lse activca mas facilmente y en valores que se alejan del 0 la neurona tiene mas dificultad para activarse.
+Si el bias tiene un valor negativo muy bajo, para la neurona es mas dificil activarse. RTA: Si va a ser mas dificil activarse para la neurona
+Si el bias es alto cerca al 0, para la neurona es mas facil activarse. RTA: La neurona se activa con mas facilidad.
 
 Para una compuerta AND, la salida sera 1 solo cuando ambas entradas son de valor 1.
 
